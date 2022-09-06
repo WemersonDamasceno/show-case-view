@@ -5,7 +5,6 @@ Um pacote Flutter permite que você mostre/destaque seus widgets passo a passo.
 
  
 # Telas implementadas
-
 ![grav-showcase](https://user-images.githubusercontent.com/37156004/188654236-a739e2b5-b297-45d5-a632-e36803108bd8.gif)
 
 
